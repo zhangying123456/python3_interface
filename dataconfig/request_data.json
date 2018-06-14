@@ -1,0 +1,32 @@
+{
+	"engine": {
+		"Accept-Encoding": "gzip"
+	},
+	"hotwords": {
+		"bizName": "globalSearchClient",
+		"sign": "8c8bc3ee9d6c4b7b8a390ae298cb6db5",
+		"timeMills": "1524906299999"
+	},
+	"qqmusic": {
+		"osv": "Flyme 7.8.5.8 daily",
+		"aid": "864044030085594"
+	},
+	"qqmusic_more": {
+		"osv": "Flyme 7.8.5.8 daily",
+		"aid": "864044030085594"
+	},
+	"user": {
+		"username": "",
+		"password":"",
+		"verify": "",
+		"remember":"1",
+		"pwencode":"1",
+		"browser_key":"b6dd3d58b6723cfafe20f166ae5a31dd",
+		"referer": "https://www.imooc.com"
+	},
+	"shop": {
+		"jsonpcallback": "jQuery111302908114778786126_1528250007749",
+		"goods_ids": "723",
+		"_": "1528250007757"		
+	}
+}

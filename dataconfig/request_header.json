@@ -1,0 +1,20 @@
+{
+	"engine_header": {
+		"Accept-Encoding": "gzip",
+		"Content-Type":"application/x-www-form-urlencoded"
+	},
+	"write_Cookies":{
+	"Accept":"application/json, text/javascript, */*; q=0.01",
+	"Accept-Encoding": "gzip, deflate, br",
+	"Accept-Language": "zh-CN,zh;q=0.8",
+	"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4620.400 QQBrowser/9.7.13014.400",
+	"X-Requested-With": "XMLHttpRequest",
+	"Host":"www.imooc.com",
+	"Connection":"keep-alive",
+	"Content-Length":"333",
+	"Origin":"https://www.imooc.com",
+	"Content-Type":"application/x-www-form-urlencoded; charset=UTF-8",
+	"Referer":"https://www.imooc.com/",
+	"Cookie":"PHPSESSID=hsc8aeu1gr7kdpgglv3am06a16; imooc_uuid=3fc70793-320a-4e97-a0b3-7f92be55d605; imooc_isnew_ct=1525315158; UM_distinctid=163383408a9ef-0cf50cc796a61e-34497b51-1fa400-163383408aa1a7; cninfo=syb12-0e3785bb64ff082e0fe94900fd9b9ed6; mc_channel=syb6; mc_marking=b587280c0c1c0e76c1092aa21406565a; last_login_username=495735915%40qq.com; IMCDNS=0; Hm_lvt_f0cfcccd7b1393990c78efdeebff3968=1528105914,1528105952,1528179244,1528249874; Hm_lpvt_f0cfcccd7b1393990c78efdeebff3968=1528249881; imooc_isnew=2; cvde=5aea765673fdd-167"
+	}
+}
